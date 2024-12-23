@@ -1,0 +1,2 @@
+Dear one,I am presenting out to you regarding a currency converter application I developed. While it is a functional sample, I have not had the opportunity to complete it.It is suitable for use as a model and could be developed further. 
+The application's operational logic involves the reception of live currency data from Excel, the addition and removal of desired currencies within the application, and a straightforward and intuitive interface.
